@@ -1,7 +1,7 @@
-<h4>💫 Estou em processo de transição de carreira para a área de desenvolvimento de software, que é algo que sempre tive interesse e curiosidade em aprender. 
+<h3>💫 Estou em processo de transição de carreira para a área de desenvolvimento de software, que é algo que sempre tive interesse e curiosidade em aprender. 
 Atualmente faço uma segunda graduação em Tecnologia da Informação pela UNIVESP e tenho me dedicado a um bootcamp sobre desenvolvimento utilizando python. 
-Minha atual meta é aprimorar minha logica codando, além de desenvolver, em um futuro curso, habilidades em na criação de APIs e em banco de dados.
-Bem vindos ao meu registro de aprendizagem, caso queiram deixar dicas e criticas construtivas fiquem a vontade!! ✨<h4></h4> 
+Minha atual meta é aprimorar minha lógica codando, além de desenvolver, em um futuro curso, habilidades na criação de APIs e banco de dados.
+<div></div> Bem vindos ao meu registro de aprendizagem!! Caso queiram deixar dicas e criticas construtivas fiquem a vontade!! ✨<h3></h3> 
 
 
 ## 🌐 Minhas redes:
@@ -12,10 +12,9 @@ Bem vindos ao meu registro de aprendizagem, caso queiram deixar dicas e criticas
 
 <div>
 <a href="https://github.com/SantosLCarooull">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantosLCarooull&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=SantosLCarooull&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-
+![Snake animation](https://github.com/SantosLCarooull/SantosLCarooull/blob/output/github-contribution-grid-snake.svg)
 
 
